@@ -63,3 +63,10 @@ button:hover {
     border-radius: 8px;
     background-color: #110022;
 }
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    padding: 10px 0;
+    color: #8888aa;
+}

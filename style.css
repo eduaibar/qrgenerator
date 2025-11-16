@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #0a0a0a;
+    background-color: #000000;
     color: white;
 }
 
@@ -67,9 +67,8 @@ button:hover {
 }
 
 footer {
-    width: 100%;
     text-align: center;
     font-size: 0.8em;
     color: white;
-    margin-top: 20px;
+    padding: 1rem;
 }

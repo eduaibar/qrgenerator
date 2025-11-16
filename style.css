@@ -30,6 +30,7 @@ input {
     border: 1px solid #444;
     background-color: #110022;
     margin-bottom: 20px;
+    color: white;
 }
 
 input::placeholder {
